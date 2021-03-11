@@ -13,7 +13,6 @@
 ?>
 <?php include_once('layouts/header.php'); ?>
 
-
 <script src="https://code.jquery.com/jquery.js"></script>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="libs/js/highcharts/highcharts.js"></script>
