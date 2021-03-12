@@ -6,7 +6,6 @@
   //Llenamos las listas
   $estados = find_all('estados'); 
   $tipo_residente = find_all('tipo_residente'); 
-
 ?>
 <?php
   if(isset($_POST['add'])){ 
